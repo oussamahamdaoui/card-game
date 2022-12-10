@@ -1,0 +1,16 @@
+{
+  "name": "card-game",
+  "version": "0.0.0",
+  "description": "A fresh new Architect project!",
+  "scripts": {
+    "start": "npx sandbox",
+    "test": "jest --silent"
+  },
+  "devDependencies": {
+    "@architect/architect": "^10.8.2",
+    "@architect/plugin-typescript": "^0.3.0",
+    "@jest/globals": "^29.3.1",
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.3"
+  }
+}
