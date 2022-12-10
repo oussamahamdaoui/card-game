@@ -1,0 +1,4 @@
+- Fixed some typos
+- Assume state sloud be a multiple of 4
+- Assume players should be 4
+- Assume cards in state are uniqe 52 cards
