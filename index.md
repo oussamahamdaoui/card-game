@@ -2,3 +2,7 @@
 - Assume state sloud be a multiple of 4
 - Assume players should be 4
 - Assume cards in state are uniqe 52 cards
+- Use json to avoid base64 encoding
+- Add more tests if I get more time
+- Write a proper tokenizer
+- Generate clearer errors
